@@ -1,0 +1,35 @@
+.quadrado{
+
+    border: 3px solid rgba(0, 0, 0, 0.116);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: rgb(253, 147, 109);
+    position: absolute;
+    font-family:'Times New Roman', Times, serif;  color:white
+
+}
+
+.quadrado2{
+
+    right: 0px;
+    top: 0px;
+    background-color: rgb(255, 131, 156)
+
+}
+
+.quadrado3{
+
+    left: 0px;
+    bottom: 0px;
+    background-color: rgb(195, 131, 255)
+
+}
+
+.quadrado4{
+
+    right: 0px;
+    bottom: 0px;
+    background-color: rgb(125, 214, 255)
+
+}
